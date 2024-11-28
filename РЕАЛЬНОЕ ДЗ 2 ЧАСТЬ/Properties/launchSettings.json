@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "РЕАЛЬНОЕ ДЗ 2 ЧАСТЬ": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

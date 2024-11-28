@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "2 часть ДЗ 30.11.24": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
